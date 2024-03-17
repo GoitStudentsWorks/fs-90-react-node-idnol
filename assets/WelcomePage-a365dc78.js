@@ -1,4 +1,4 @@
-import{s as e,t,N as n,j as i,a as o}from"./index-02920d54.js";import{W as r,a as s,S as a}from"./WelcomePage.styled-8d66a841.js";import"./side-view-2x-desk-6e75eca2.js";const p=e.div`
+import{s as e,t,N as n,j as i,a as o}from"./index-ff86338f.js";import{W as r,a as s,S as a}from"./WelcomePage.styled-aca56357.js";import"./side-view-2x-desk-6e75eca2.js";const p=e.div`
   position: relative;
   margin-right: 72px;
   @media (min-width: ${t.breakpoint.xl}) {

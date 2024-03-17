@@ -1,4 +1,4 @@
-import{s as n,t as e,u as f,b as w,c as $,d as k,j as t,a as l}from"./index-02920d54.js";import{i as j,a as v,b as S,c as y}from"./side-view-2x-desk-6e75eca2.js";const E=n.div`
+import{s as n,t as e,u as f,b as w,c as $,d as k,j as t,a as l}from"./index-ff86338f.js";import{i as j,a as v,b as S,c as y}from"./side-view-2x-desk-6e75eca2.js";const E=n.div`
   display: flex;
   flex-direction: column;
   gap: 20px;
