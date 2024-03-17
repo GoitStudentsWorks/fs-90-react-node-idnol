@@ -1,0 +1,1 @@
+const e="/fs-90-react-node-idnol/assets/side-view-1x-mob-02eedf10.jpg",s="/fs-90-react-node-idnol/assets/side-view-2x-mob-ce899bb8.jpg",a="/fs-90-react-node-idnol/assets/side-view-1x-desk-e4720917.jpg",d="/fs-90-react-node-idnol/assets/side-view-2x-desk-04df8a4c.jpg";export{s as a,a as b,d as c,e as i};
