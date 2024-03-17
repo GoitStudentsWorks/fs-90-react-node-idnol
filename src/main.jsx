@@ -8,7 +8,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/ui-power-pulse">
+    <BrowserRouter basename="/fs-90-react-node-idnol">
     <Provider store={store}>
      <PersistGate loading={null} persistor={persistor}>
       <App />
